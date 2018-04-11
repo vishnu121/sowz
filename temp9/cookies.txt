@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pixinvent.com	TRUE	/	FALSE	1999999999	PHPSESSID	nblh8pmn7iad7jl42bjsm91657
+pixinvent.com	TRUE	/	FALSE	1999999999	wfvt_264015762	5aba8f6dea9a1
+
